@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joostvdg on Joostvdg&#39;s K8S &amp; DevOps Learnings</title>
+    <link>/author/joostvdg/</link>
+    <description>Recent content in Joostvdg on Joostvdg&#39;s K8S &amp; DevOps Learnings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 May 2018 12:42:49 +0200</lastBuildDate>
+    
+	<atom:link href="/author/joostvdg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Devops23</title>
+      <link>/book/devops23/</link>
+      <pubDate>Sat, 12 May 2018 12:42:49 +0200</pubDate>
+      
+      <guid>/book/devops23/</guid>
+      <description>Good book on using kubernetes for CI/CD &amp;amp; DevOps: DevOps Toolkit 2.3 by Viktor Farcic.</description>
+    </item>
+    
+    <item>
+      <title>Kubecon Eu 2018</title>
+      <link>/conference/kubecon-eu-2018/</link>
+      <pubDate>Sat, 12 May 2018 12:26:57 +0200</pubDate>
+      
+      <guid>/conference/kubecon-eu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/page/introduction/</link>
+      <pubDate>Sat, 12 May 2018 12:09:13 +0200</pubDate>
+      
+      <guid>/page/introduction/</guid>
+      <description>Hi there!
+This is a website for collecting my learning about Kubernetes &amp;amp; DevOps.
+More the come soon!</description>
+    </item>
+    
+    <item>
+      <title>Jenkins on Kubernetes</title>
+      <link>/article/jenkins-on-k8s/</link>
+      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
+      
+      <guid>/article/jenkins-on-k8s/</guid>
+      <description>More to come!</description>
+    </item>
+    
+  </channel>
+</rss>

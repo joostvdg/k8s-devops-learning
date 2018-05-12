@@ -1,7 +1,7 @@
 title = "Joostvdg's K8S & DevOps Learnings"
 baseURL = "https://joostvdg.github.io/k8s-devops-learning"
 theme = "bilberry-hugo-theme"
-
+publishDir = "docs"
 enableRobotsTXT = true
 
 # Change to your content language. Supported values: en, de, es, fr, ru

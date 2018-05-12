@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/book/devops23/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conference/kubecon-eu-2018/</loc>
+    <lastmod>2018-05-12T12:26:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/introduction/</loc>
+    <lastmod>2018-05-12T12:09:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/article/jenkins-on-k8s/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/video/jenkins-x/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/github/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/link/duckduckgo/</loc>
+    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/quote/edward-snowden-privacy/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/article/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/book/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cicd/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cloudbees/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/conference/</loc>
+    <lastmod>2018-05-12T12:26:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/devops/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/devops/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/author/edward-snowden/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/free-speech/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jenkins/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/jenkins/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/jenkins-x/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/author/joostvdg/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/kubecon/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kubernetes/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/link/</loc>
+    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
+    <lastmod>2018-05-12T12:09:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/privacy/</loc>
+    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/quote/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/search-engine/</loc>
+    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/society/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-05-12T12:42:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/video/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/video/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

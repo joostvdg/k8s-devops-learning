@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on Joostvdg&#39;s K8S &amp; DevOps Learnings</title>
+    <link>/conference/</link>
+    <description>Recent content in Conferences on Joostvdg&#39;s K8S &amp; DevOps Learnings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 May 2018 12:26:57 +0200</lastBuildDate>
+    
+	<atom:link href="/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubecon Eu 2018</title>
+      <link>/conference/kubecon-eu-2018/</link>
+      <pubDate>Sat, 12 May 2018 12:26:57 +0200</pubDate>
+      
+      <guid>/conference/kubecon-eu-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
