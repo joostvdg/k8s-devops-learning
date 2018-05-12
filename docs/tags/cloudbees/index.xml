@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloudbees on Joostvdg&#39;s K8S &amp; DevOps Learnings</title>
-    <link>/tags/cloudbees/</link>
+    <link>/k8s-devops-learning/tags/cloudbees/</link>
     <description>Recent content in Cloudbees on Joostvdg&#39;s K8S &amp; DevOps Learnings</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 12 May 2018 12:42:49 +0200</lastBuildDate>
     
-	<atom:link href="/tags/cloudbees/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/k8s-devops-learning/tags/cloudbees/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Devops23</title>
-      <link>/book/devops23/</link>
+      <link>/k8s-devops-learning/book/devops23/</link>
       <pubDate>Sat, 12 May 2018 12:42:49 +0200</pubDate>
       
-      <guid>/book/devops23/</guid>
+      <guid>/k8s-devops-learning/book/devops23/</guid>
       <description>Good book on using kubernetes for CI/CD &amp;amp; DevOps: DevOps Toolkit 2.3 by Viktor Farcic.</description>
     </item>
     
     <item>
       <title>Jenkins on Kubernetes</title>
-      <link>/article/jenkins-on-k8s/</link>
+      <link>/k8s-devops-learning/article/jenkins-on-k8s/</link>
       <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
       
-      <guid>/article/jenkins-on-k8s/</guid>
+      <guid>/k8s-devops-learning/article/jenkins-on-k8s/</guid>
       <description>More to come!</description>
     </item>
     

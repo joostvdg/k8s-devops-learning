@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubecon on Joostvdg&#39;s K8S &amp; DevOps Learnings</title>
-    <link>/categories/kubecon/</link>
+    <link>/k8s-devops-learning/categories/kubecon/</link>
     <description>Recent content in Kubecon on Joostvdg&#39;s K8S &amp; DevOps Learnings</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Nov 2017 16:23:40 +0100</lastBuildDate>
     
-	<atom:link href="/categories/kubecon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/k8s-devops-learning/categories/kubecon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>James Strachan - Jenkins X</title>
-      <link>/video/jenkins-x/</link>
+      <link>/k8s-devops-learning/video/jenkins-x/</link>
       <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
       
-      <guid>/video/jenkins-x/</guid>
+      <guid>/k8s-devops-learning/video/jenkins-x/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     

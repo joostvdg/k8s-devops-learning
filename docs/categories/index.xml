@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Joostvdg&#39;s K8S &amp; DevOps Learnings</title>
-    <link>/categories/</link>
+    <link>/k8s-devops-learning/categories/</link>
     <description>Recent content in Categories on Joostvdg&#39;s K8S &amp; DevOps Learnings</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/k8s-devops-learning/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Devops</title>
-      <link>/categories/devops/</link>
+      <link>/k8s-devops-learning/categories/devops/</link>
       <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
       
-      <guid>/categories/devops/</guid>
+      <guid>/k8s-devops-learning/categories/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jenkins</title>
-      <link>/categories/jenkins/</link>
+      <link>/k8s-devops-learning/categories/jenkins/</link>
       <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
       
-      <guid>/categories/jenkins/</guid>
+      <guid>/k8s-devops-learning/categories/jenkins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jenkins X</title>
-      <link>/categories/jenkins-x/</link>
+      <link>/k8s-devops-learning/categories/jenkins-x/</link>
       <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
       
-      <guid>/categories/jenkins-x/</guid>
+      <guid>/k8s-devops-learning/categories/jenkins-x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kubecon</title>
-      <link>/categories/kubecon/</link>
+      <link>/k8s-devops-learning/categories/kubecon/</link>
       <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
       
-      <guid>/categories/kubecon/</guid>
+      <guid>/k8s-devops-learning/categories/kubecon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>/categories/privacy/</link>
+      <link>/k8s-devops-learning/categories/privacy/</link>
       <pubDate>Wed, 01 Nov 2017 13:05:27 +0100</pubDate>
       
-      <guid>/categories/privacy/</guid>
+      <guid>/k8s-devops-learning/categories/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Society</title>
-      <link>/categories/society/</link>
+      <link>/k8s-devops-learning/categories/society/</link>
       <pubDate>Wed, 01 Nov 2017 13:01:14 +0100</pubDate>
       
-      <guid>/categories/society/</guid>
+      <guid>/k8s-devops-learning/categories/society/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video</title>
-      <link>/categories/video/</link>
+      <link>/k8s-devops-learning/categories/video/</link>
       <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
       
-      <guid>/categories/video/</guid>
+      <guid>/k8s-devops-learning/categories/video/</guid>
       <description></description>
     </item>
     
